@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertTrue;
 
-public class AppServerTest {
+public class EchoServerHandlerTest {
     @Test
     public void shouldAnswerWithTrue() {
         assertTrue(true);
