@@ -16,7 +16,7 @@ import java.net.InetSocketAddress;
  * description:
  * </p>
  *
- * @author create by chenzhou at 2018/7/26
+ * @author create by Chan at 2018/7/26
  */
 @Slf4j(topic = "client")
 public class EchoClient {
